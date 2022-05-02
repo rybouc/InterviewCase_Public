@@ -13,7 +13,7 @@ Fictitious sample data for an interview case
 - **You** are the senior DS leading this project. In this time period you’ll work independently on a sample dataset to develop initial findings. In the second session you’ll meet with a PM and another data scientist from the App Services team. In the third session you’ll be able to present findings to leadership. 
 
 ## Datasets
-- **Case_AccountData**: Identifies the segment category and development language for each customer
+- **Case_AccountData**: Identifies the segment category and dev language for each customer
 
 - **Case_AccountCreation**: Identifies the start day and start week for each customer. Includes customers acquired between 2/1/2022 – 2/28/2022
 
