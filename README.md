@@ -8,7 +8,7 @@ Fictitious sample data for an interview case
 
 - Specifically, we want to better understand their **customer acquisition rates** and the **rate of customer retention** over time. This will help us understand which Microsoft teams and programs are best suited to help grow the business. 
 
-- **You** are the data scientist from the team leading this project. In this time period you’ll work independently on a **sample dataset** to develop initial findings. In the second session you’ll meet with a product manager and another data scientist from the App Services team. In the third session you’ll be able to present findings to leadership. 
+- **You** are the data scientist from the team leading this project. In this time period you’ll work independently on a **sample dataset** to develop initial findings, which you will use to discuss insights and growth opportunities with the product team. 
 
 ## Datasets
 - **Case_AccountData**: Identifies the segment category and dev language for each customer.
