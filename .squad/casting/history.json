@@ -1,0 +1,28 @@
+{
+  "universe_usage_history": [
+    {
+      "universe": "user-chosen-custom",
+      "assignment_id": "init-20260924T075935999-0700",
+      "used_at": "2026-09-24T07:59:35.999-07:00"
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "init-20260924T075935999-0700": {
+      "universe": "user-chosen-custom",
+      "agents": {
+        "visualization-specialist": "Viz-dude",
+        "quarto-reporting-specialist": "Quarto-dude",
+        "experimentation-statistics-specialist": "Experiment-dude",
+        "modeling-specialist": "Model-dude",
+        "git-repository-specialist": "Git-Dude",
+        "query-specialist": "Query-dude",
+        "project-management-specialist": "Manager-dude",
+        "scribe": "Scribe",
+        "ralph": "Ralph",
+        "rai": "Rai",
+        "fact-checker": "Fact Checker"
+      },
+      "created_at": "2026-09-24T07:59:35.999-07:00"
+    }
+  }
+}

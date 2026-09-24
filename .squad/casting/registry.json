@@ -1,0 +1,15 @@
+{
+  "agents": {
+    "visualization-specialist": {"persistent_name": "Viz-dude", "universe": "user-chosen-custom", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "quarto-reporting-specialist": {"persistent_name": "Quarto-dude", "universe": "user-chosen-custom", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "experimentation-statistics-specialist": {"persistent_name": "Experiment-dude", "universe": "user-chosen-custom", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "modeling-specialist": {"persistent_name": "Model-dude", "universe": "user-chosen-custom", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "git-repository-specialist": {"persistent_name": "Git-Dude", "universe": "user-chosen-custom", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "query-specialist": {"persistent_name": "Query-dude", "universe": "user-chosen-custom", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "project-management-specialist": {"persistent_name": "Manager-dude", "universe": "user-chosen-custom", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "scribe": {"persistent_name": "Scribe", "universe": "built-in", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "ralph": {"persistent_name": "Ralph", "universe": "built-in", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "rai": {"persistent_name": "Rai", "universe": "built-in", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"},
+    "fact-checker": {"persistent_name": "Fact Checker", "universe": "built-in", "created_at": "2026-09-24T07:59:35.999-07:00", "legacy_named": false, "status": "active"}
+  }
+}
