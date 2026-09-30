@@ -15,7 +15,7 @@ Fictitious sample data for an interview case
 
 - **Case_AccountCreation**: Identifies the start day and start week for each customer. This sample includes customers acquired between 2/1/2022 – 2/28/2022.
 
-- **Case_UsagteData**: Identifies each day that the product is used by the customer. This sample includes customer usage data for 2/1/2022 – 4/30/2022.
+- **Case_UsageData**: Identifies each day that the product is used by the customer. This sample includes customer usage data for 2/1/2022 – 4/30/2022.
 
 ## Task
 - You have 90 minutes to develop your perspective of the App Service business performance. You can use whatever resources you want, like searching the internet, just like you would on the job. We'll reserve the last 15 minutes of this 2-hour time block so you can walk us through your notebook and initial findings. 
